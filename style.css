@@ -1,0 +1,93 @@
+header{
+    font-family: 'Poppins', sans-serif;
+}
+a {
+   color: #000000;
+}
+.headerContainer{
+   background-color: #F5F5F5;
+}
+.btnColor{
+    background-color:#C3DCE3;
+}
+.btnLight{
+   background-color:#F5F5F5
+}
+.footerContainer{
+    background-color: #F5F5F5
+ }
+ .dividerH{
+    border-top: 1px solid #E8E8E8;
+    height: 1px;
+ }
+ .navcolor{
+   color: #d4d0d0;
+}
+ }
+ .SectionP{
+    color:#94432a;
+    font-size: 13px;
+    font-family: 'Fira Sans', sans-serif;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Libre Baskerville', serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Roboto Mono', monospace;
+    font-family: 'Sometype Mono', monospace;
+    font-family: 'Work Sans', sans-serif;
+ }
+ .sectionP{
+   color:#2a7f94;
+   font-family: 'Fira Sans', sans-serif;
+   font-size: 13px;
+ }
+ .firstsectionpp{
+    color: #8F8F8F;
+    
+ }
+ .firstSectionTitle{
+    font-family: 'Libre Baskerville', serif;
+    color: black;
+    font-size: 55px;
+ }
+ .fontsize{
+   font-family: 'Libre Baskerville', serif;
+    color: black;
+    font-size: 30px;
+ }
+ .fontsizeplus{
+   font-family: 'Libre Baskerville', serif;
+    color: #2a7f94;
+    font-size: 35px;
+ }
+ .fontSize{
+    color: rgb(0, 0, 0);
+    font-size: 12px;
+ }
+ .imgsize{
+   height: 20px;
+ }
+ .fontSizetwo{
+   color: rgb(0, 0, 0);
+   font-size: 12px;
+}
+#firstContainer{
+   background-color: #F5F5F5
+}
+#thirdContainer{
+   background-color: #F5F5F5
+}
+.secondSectionTitle{
+   font-family: 'Libre Baskerville', serif;
+    color: black;
+    font-size: 35px;
+}
+.secondimgsize{
+   height: 100px;
+}
+.secondImg{
+   height: 50vh;
+   
+}
+.fourthImg{
+   height: 40vh;
+}
